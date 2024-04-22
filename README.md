@@ -10,4 +10,4 @@
 
 ## Maze screenshot
 
-![Preview](D:\Learning_Python\advent_of_code_day10\results.png)
+![Preview](results.png)
